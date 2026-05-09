@@ -36,8 +36,6 @@ A aplicação iniciará localmente na porta `8080`. O banco de dados H2 será au
 
 ## 📌 Endpoints da API
 
-A coleção do Postman com as requisições de teste fornecidas pela DevSuperior pode ser acessada através do link: [Postman Collection](https://www.getpostman.com/collections/dea7904f994cb87c3d).
-
 ### 1. Relatório de Vendas
 Retorna uma listagem paginada das vendas em um período, podendo buscar por parte do nome de um vendedor.
 
