@@ -2,28 +2,27 @@ package com.devsuperior.dsmeta.dto;
 
 public class SellerMinDTO {
 
+    private String sellerName;
+    private Double total;
 
-    private String name;
-    private Double amount;
-
-    public SellerMinDTO(String name, Double amount) {
-        this.name = name;
-        this.amount = amount;
+    public SellerMinDTO(String sellerName, Double total) {
+        this.sellerName = sellerName;
+        this.total = total;
     }
 
-    public String getName() {
-        return name;
+    public String getSellerName() {
+        return sellerName;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setSellerName(String sellerName) {
+        this.sellerName = sellerName;
     }
 
-    public Double getAmount() {
-        return amount;
+    public Double getTotal() {
+        return total;
     }
 
-    public void setAmount(Double amount) {
-        this.amount = amount;
+    public void setTotal(Double total) {
+        this.total = total;
     }
 }
