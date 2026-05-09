@@ -26,7 +26,7 @@ A API disponibiliza dois recursos principais de consulta solicitados pelo desafi
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/desafio-consulta-vendas.git
+git clone https://github.com/EdigarTorres/desafio-4-consulta-vendas.git
 ```
 2. Importe o projeto na sua IDE de preferência (IntelliJ IDEA, Eclipse, Spring Tool Suite, etc).
 3. Aguarde o Maven baixar as dependências.
